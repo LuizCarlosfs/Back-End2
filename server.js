@@ -10,4 +10,4 @@ routes(app);
 // Inicia o servidor na porta 3001
 app.listen(3001, () => {
     console.log("Servidor escutando...");
-});
+}); 
